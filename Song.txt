@@ -28,3 +28,28 @@ chorus:
 	When I'm gone?
 	And who'll watch over you
 	When I'm gone?
+	
+third couplete:
+	And when I'm gone
+	Who will break your fall?
+	Who will you blame?
+	I can't go on
+	And let you lose it all
+	It's more than I can take
+	Who'll ease your pain?
+	Ease your pain?
+
+chorus:
+	Who is gonna save you
+	When I'm gone?
+	Who'll watch over you?
+	Who will give you strength
+	When you're not strong?
+	Who'll watch over you
+	When I've gone away?
+
+ending:
+	Snow is on the ground
+	Winters come
+	You long to hear my voice
+	But I'm long gone...
